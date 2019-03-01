@@ -24,3 +24,18 @@ input[type="submit"] {
     font-size: 2em;
     width: 100%;
 }
+
+
+input[type="submit"] {
+    font-size: 27px;
+    padding: 10px 30%;
+}
+
+div{
+text-align:center;
+}
+
+select {
+    padding: 4px 56px 4px 0;
+}
+
